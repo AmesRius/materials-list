@@ -3,21 +3,21 @@
         "id": 1,
         "name": "ダマスク",
         "category": "植物・花",
-        "imageUrl": "ダマスク.png",
+        "imageUrl": "images/ダマスク.png",
         "description": "植物・花のダマスク柄"
     },
     {
         "id": 2,
         "name": "ペイズリー",
         "category": "植物・花",
-        "imageUrl": "ペイズリー.png",
+        "imageUrl": "images/ペイズリー.png",
         "description": "植物・花のペイズリー柄"
     },
     {
         "id": 3,
         "name": "カモフラ",
         "category": "植物・花",
-        "imageUrl": "カモフラ.png",
+        "imageUrl": "images/カモフラ.png",
         "description": "植物・花のカモフラ柄"
     },
     {
