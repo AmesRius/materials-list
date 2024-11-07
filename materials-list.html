@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>素材名称一覧</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- ヘッダー -->
+    <header>
+        <h1>デザイン素材情報サイト</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">ホーム</a></li>
+                <li><a href="history.html">デザインの歴史</a></li>
+                <li><a href="design-thinking.html">デザインの考え方</a></li>
+                <li><a href="layout-basics.html">配置の基礎</a></li>
+                <li><a href="color-basics.html">色の基礎</a></li>
+                <li><a href="materials-list.html">素材名称一覧</a></li>
+                <li><a href="recommended-sites.html">おすすめサイト一覧</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- フィルタとソートのセクション -->
+    <div class="filter-sort">
+        <label for="category-filter">カテゴリフィルター:</label>
+        <select id="category-filter">
+            <option value="all">すべて</option>
+            <option value="カテゴリA">カテゴリA</option>
+            <option value="カテゴリB">カテゴリB</option>
+        </select>
+
+        <label for="sort-options">並べ替え:</label>
+        <select id="sort-options">
+            <option value="name-asc">名前 (昇順)</option>
+            <option value="name-desc">名前 (降順)</option>
+        </select>
+    </div>
+
+    <!-- 素材一覧ページのメインコンテンツ -->
+    <main>
+        <h2>素材名称一覧</h2>
+        <div class="material-grid"></div>
+    </main>
+
+    <!-- フッター -->
+    <footer>
+        <p>&copy; 2024 デザイン素材情報サイト</p>
+    </footer>
+
+    <!-- JavaScriptを読み込み -->
+    <script src="script.js"></script>
+</body>
+</html>
