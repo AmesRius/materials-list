@@ -107,9 +107,9 @@ main p {
     color: #333;
 }
 
-.material-image {
-    width:40%;
-     aspect-ratio: 16 / 9;
+.material-content img {
+    width: 50%;
+    aspect-ratio: 16 / 9;
 }
 
 /* レスポンシブデザイン */
