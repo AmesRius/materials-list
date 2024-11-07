@@ -3,196 +3,196 @@
         "id": 1,
         "name": "ダマスク",
         "category": "植物・花",
-        "imageUrl": "画像のURL1",
+        "imageUrl": "ダマスク.png",
         "description": "植物・花のダマスク柄"
     },
     {
         "id": 2,
         "name": "ペイズリー",
         "category": "植物・花",
-        "imageUrl": "画像のURL2",
+        "imageUrl": "ペイズリー.png",
         "description": "植物・花のペイズリー柄"
     },
     {
         "id": 3,
         "name": "カモフラ",
         "category": "植物・花",
-        "imageUrl": "画像のURL3",
+        "imageUrl": "カモフラ.png",
         "description": "植物・花のカモフラ柄"
     },
     {
         "id": 4,
         "name": "ボタニカル",
         "category": "植物・花",
-        "imageUrl": "画像のURL4",
+        "imageUrl": "ボタニカル.png",
         "description": "植物・花のボタニカル柄"
     },
     {
         "id": 5,
         "name": "チマヨ",
         "category": "エスニック柄",
-        "imageUrl": "画像のURL5",
+        "imageUrl": "チマヨ.png",
         "description": "エスニック柄のチマヨ柄"
     },
     {
         "id": 6,
         "name": "フェアアイル",
         "category": "エスニック柄",
-        "imageUrl": "画像のURL6",
+        "imageUrl": "フェアアイル.png",
         "description": "エスニック柄のフェアアイル柄"
     },
     {
         "id": 7,
         "name": "ノルディック",
         "category": "エスニック柄",
-        "imageUrl": "画像のURL7",
+        "imageUrl": "ノルディック.png",
         "description": "エスニック柄のノルディック柄"
     },
     {
         "id": 8,
         "name": "ヘリンボーン",
         "category": "動物柄",
-        "imageUrl": "画像のURL8",
+        "imageUrl": "ヘリンボーン.png",
         "description": "動物柄のヘリンボーン柄"
     },
     {
         "id": 9,
         "name": "レオパード",
         "category": "動物柄",
-        "imageUrl": "画像のURL9",
+        "imageUrl": "レオパード.png",
         "description": "動物柄のレオパード柄"
     },
     {
         "id": 10,
         "name": "ゼブラ",
         "category": "動物柄",
-        "imageUrl": "画像のURL10",
+        "imageUrl": "ゼブラ.png",
         "description": "動物柄のゼブラ柄"
     },
     {
         "id": 11,
         "name": "鱗文",
         "category": "動物柄",
-        "imageUrl": "画像のURL11",
+        "imageUrl": "鱗文.png",
         "description": "動物柄の鱗文柄"
     },
     {
         "id": 12,
         "name": "プレイド",
         "category": "チェック柄",
-        "imageUrl": "画像のURL12",
+        "imageUrl": "プレイド.png",
         "description": "チェック柄のプレイド柄"
     },
     {
         "id": 13,
         "name": "アーガイル",
         "category": "チェック柄",
-        "imageUrl": "画像のURL13",
+        "imageUrl": "アーガイル.png",
         "description": "チェック柄のアーガイル柄"
     },
     {
         "id": 14,
         "name": "ギンガムチェック",
         "category": "チェック柄",
-        "imageUrl": "画像のURL14",
+        "imageUrl": "ギンガムチェック.png",
         "description": "チェック柄のギンガムチェック柄"
     },
     {
         "id": 15,
         "name": "ハウンドトゥースチェック",
         "category": "チェック柄",
-        "imageUrl": "画像のURL15",
+        "imageUrl": "ハウンドトゥースチェック.png",
         "description": "チェック柄のハウンドトゥースチェック柄"
     },
     {
         "id": 16,
         "name": "タータンチェック",
         "category": "チェック柄",
-        "imageUrl": "画像のURL16",
+        "imageUrl": "タータンチェック.png",
         "description": "チェック柄のタータンチェック柄"
     },
     {
         "id": 17,
         "name": "市松模様",
         "category": "チェック柄",
-        "imageUrl": "画像のURL17",
+        "imageUrl": "市松模様.png",
         "description": "チェック柄の市松模様"
     },
     {
         "id": 18,
         "name": "水玉模様",
         "category": "ドット柄",
-        "imageUrl": "画像のURL18",
+        "imageUrl": "水玉模様.png",
         "description": "ドット柄の水玉模様"
     },
     {
         "id": 19,
         "name": "シャワードット",
         "category": "ドット柄",
-        "imageUrl": "画像のURL19",
+        "imageUrl": "シャワードット.png",
         "description": "ドット柄のシャワードット"
     },
     {
         "id": 20,
         "name": "ストライプ",
         "category": "ストライプ柄",
-        "imageUrl": "画像のURL20",
+        "imageUrl": "ストライプ.png",
         "description": "ストライプ柄のストライプ"
     },
     {
         "id": 21,
         "name": "雷文",
         "category": "和柄",
-        "imageUrl": "画像のURL21",
+        "imageUrl": "雷文.png",
         "description": "和柄の雷文"
     },
     {
         "id": 22,
         "name": "唐草模様",
         "category": "和柄",
-        "imageUrl": "画像のURL22",
+        "imageUrl": "唐草模様.png",
         "description": "和柄の唐草模様"
     },
     {
         "id": 23,
         "name": "七宝つなぎ",
         "category": "和柄",
-        "imageUrl": "画像のURL23",
+        "imageUrl": "七宝つなぎ.png",
         "description": "和柄の七宝つなぎ"
     },
     {
         "id": 24,
         "name": "青海波",
         "category": "和柄",
-        "imageUrl": "画像のURL24",
+        "imageUrl": "青海波.png",
         "description": "和柄の青海波"
     },
     {
         "id": 25,
         "name": "麻の葉",
         "category": "和柄",
-        "imageUrl": "画像のURL25",
+        "imageUrl": "麻の葉.png",
         "description": "和柄の麻の葉"
     },
     {
         "id": 26,
         "name": "矢羽根",
         "category": "和柄",
-        "imageUrl": "画像のURL26",
+        "imageUrl": "矢羽根.png",
         "description": "和柄の矢羽根"
     },
     {
         "id": 27,
         "name": "アラベスク",
         "category": "その他",
-        "imageUrl": "画像のURL27",
+        "imageUrl": "アラベスク.png",
         "description": "その他のアラベスク柄"
     },
     {
         "id": 28,
         "name": "スプラッシュ",
         "category": "その他",
-        "imageUrl": "画像のURL28",
+        "imageUrl": "スプラッシュ.png",
         "description": "その他のスプラッシュ柄"
     }
 ]
