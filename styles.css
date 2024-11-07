@@ -107,6 +107,11 @@ main p {
     color: #333;
 }
 
+.material-image {
+    width:40%;
+     aspect-ratio: 16 / 9;
+}
+
 /* レスポンシブデザイン */
 @media (max-width: 768px) {
     .material-grid {
